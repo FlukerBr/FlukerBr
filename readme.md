@@ -8,4 +8,4 @@
 
 
 
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000=https://www.youtube.com/channel/UCDdCTajzvgVpm8SWDMdIZ2g)](https://www.youtube.com/channel/UCDdCTajzvgVpm8SWDMdIZ2g)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000)](https://www.youtube.com/channel/UCDdCTajzvgVpm8SWDMdIZ2g)
