@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/FlukerBr/FlukerBr/main/img/fkcircle.svg" alt="fk" height="100" width="100" <p align="center">Um simples rapaz que ama programar...</p>
 </div>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=flukerbr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flukerbr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flukerbr&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
