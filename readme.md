@@ -3,8 +3,7 @@
   <p align="center">Um simples rapaz que gosta muito de programar...</p>
 </div>
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=flukerbr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=flukerbr&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=flukerbr&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="FlukerBr's github stats" /></a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flukerbr&layout=compact&theme=default&hide_border=true" /></a>
 </div>
 
 ## 
