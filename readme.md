@@ -3,7 +3,7 @@
   <p align="center">Just Coding...</p>
 </div>
 <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=flukerbr&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="FlukerBr's github stats" /></a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flukerbr&layout=compact&theme=default&hide_border=true" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=flukerbr&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="FlukerBr's github stats" /></a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flukerbr&layout=compact&theme=default&hide_border=true" /></a>
 </div>
 
 ## 
