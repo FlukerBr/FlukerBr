@@ -21,5 +21,6 @@
   <a href="https://github.com/FlukerBr"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="50" draggable="false" /></a>
 </div>
 
-
+## Visitas
+<img align="center" src="https://profile-counter.glitch.me/flukerbr/count.svg" />
 
