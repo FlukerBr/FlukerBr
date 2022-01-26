@@ -1,4 +1,4 @@
- # I'm Allan
+# I'm Allan
 <div align="center">
   <a href="https://github.com/FlukerBr"><img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=flukerbr&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="FlukerBr's github stats" /></a><a href="https://github.com/FlukerBr"><img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flukerbr&layout=compact&theme=tokyonight&hide_border=true" /></a>
 </div>
@@ -16,8 +16,8 @@
 <div align="center" style="display: inline-block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="50" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="50" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="50" width="50" />
 </div>
 
 ### Visitas
